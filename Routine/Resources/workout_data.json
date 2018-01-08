@@ -1,0 +1,109 @@
+{
+    "workouts" : [
+                  {
+                  "name": "Push A",
+                  "date": "12-26-2017",
+                  "muscles": ["chest", "triceps"],
+                  "exercises": [
+                                {
+                                "name": "Flat Barbell Bench Press",
+                                "weight": 225.0,
+                                "sets": 5,
+                                "reps": 5,
+                                "notes": "I got 4 out of the 5 sets completed. The last set was a grinder."
+                                },
+                                {
+                                "name": "Incline Dumbbell Bench Press",
+                                "weight": 65.0,
+                                "sets": 4,
+                                "reps": 12,
+                                "notes": "I completed all 4 sets of 12. I might increase the weight next time."
+                                },
+                                {
+                                "name": "Cable Fly",
+                                "weight": 25,
+                                "sets": 4,
+                                "reps": 15,
+                                "notes": "I felt an incredible contraction doing these."
+                                },
+                                {
+                                "name": "Machine Pec Dec",
+                                "weight": 115,
+                                "sets": 4,
+                                "reps": 12,
+                                "notes": "When I placed my hands higher on the handle bars, I managed to feel a better contraction in my 'inner chest'."
+                                },
+                                {
+                                "name": "Cable V-Bar Tricep Pushdown",
+                                "weight": 100,
+                                "sets": 4,
+                                "reps": 12,
+                                "notes": "I got fatigued by the time I got to this exercise. I most likely need to take a break after my main chest movements before starting my tricep movement."
+                                
+                                },
+                                {
+                                "name": "Dumbbell Lateral Raise",
+                                "weight": 15,
+                                "sets": 4,
+                                "reps": 15,
+                                "notes": "I felt great doing these. I held my hand along the grip of a door, shifted my center of gravity away from the door, and performed the movement perfectly."
+                                }
+                                ]
+                  },
+                  {
+                  "name": "Pull A",
+                  "date": "12-27-2017",
+                  "muscles": ["back", "biceps"],
+                  "exercises": [
+                                {
+                                "name": "Weighted Wide-Grip Pull-ups",
+                                "weight": 25.0,
+                                "sets": 5,
+                                "reps": 6,
+                                "notes": "I completed 4 sets of 6, but missed 2 reps on the last set. I'm going to repeat this weight next time."
+                                },
+                                {
+                                "name": "Barbell Deadlift",
+                                "weight": 335,
+                                "sets": 5,
+                                "reps": 5,
+                                "notes": "Every set was easy. I felt strong today. Going to increase the weight next time."
+                                },
+                                {
+                                "name": "Barbell Pronated Bent-Over Row",
+                                "weight": 185,
+                                "sets": 4,
+                                "reps": 10,
+                                "notes": "I felt like a monster doing these. Will likely use the same weight and aim for slower reps next time."
+                                },
+                                {
+                                "name": "Hammer Strength High Row",
+                                "weight": 90,
+                                "sets": 4,
+                                "reps": 12,
+                                "notes": "My favorite back exercise by far. Will increase the weight by 10 next time."
+                                },
+                                {
+                                "name": "Dumbbell Curl",
+                                "weight": 30,
+                                "sets": 4,
+                                "reps": 15,
+                                "notes": "I got into the rhythm after the first 2 sets and accidentally did 5 sets... I should probably increase the weight next time."
+                                
+                                },
+                                {
+                                "name": "Hammer Strength Curl",
+                                "weight": 55,
+                                "sets": 4,
+                                "reps": 12,
+                                "notes": "My favorite bicep exercise by far. It's super fun especially at the end of a pull day."
+                                }
+                                ]
+                  }
+                  
+                  
+                  
+                  ]
+    
+}
+

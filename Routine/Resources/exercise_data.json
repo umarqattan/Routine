@@ -1,0 +1,232 @@
+{
+    "muscles":
+    [
+     {
+     "name": "chest",
+     "exercises": [
+                   "Incline Barbell Bench Press",
+                   "Incline Dumbbell Bench Press",
+                   "Flat Barbell Bench Press",
+                   "Flat Dumbbell Bench Press",
+                   "Decline Barbell Bench Press",
+                   "Decline Dumbbell Bench Press",
+                   "Hammer Strength Incline Press",
+                   "Hammer Strength Flat Press",
+                   "Hammer Strength Decline Press",
+                   "Smith Machine Incline Bench Press",
+                   "Smith Machine Flat Bench Press",
+                   "Smith Machine Decline Bench Press",
+                   "Cable Incline Fly",
+                   "Cable Fly",
+                   "Cable Decline Fly",
+                   "Machine Pec Dec",
+                   "Incline Dumbbell Fly",
+                   "Flat Dumbbell Fly",
+                   "Decline Dumbbell Fly",
+                   "Weighted Dips",
+                   "Bodyweight Dips",
+                   "Push-ups",
+                   "Dumbbell Pullover"
+            ]
+     }
+     ,
+     {
+     "name": "back",
+     "exercises": [
+                  "Barbell Deadlift",
+                  "Barbell Pronated Bent-Over Row",
+                  "Barbell Supinated Bent-Over Row",
+                  "Barbell Deficit Deadlift",
+                  "Barbell Pendlay Row",
+                  "Hammer Strength High Row",
+                  "Hammer Strength Diagonal Row",
+                  "Hammer Strength Horizontal Row",
+                  "Barbell T-Bar Row",
+                  "Machine T-Bar Row",
+                  "Cable Wide-Grip Lat Pulldown",
+                  "Cable Close-Grip Lat Pulldown",
+                  "Cable Pushdowns",
+                  "Cable Single-Arm Pulldown",
+                  "Cable Close-Grip Horizontal Row",
+                  "Cable Single-Arm Horizontal Row",
+                  "Cable Wide-Grip Horizontal Row",
+                  "Wide-Grip Pull-ups",
+                  "Weighted Wide-Grip Pull-ups",
+                  "Close-Grip Pull-ups",
+                  "Weighted Close-Grip Pull-ups",
+                  "Dumbbell Row",
+                  "Incline Seal Row",
+                  "Barbell Seal Row",
+                  "Dumbbell Seal Row",
+                  "Reverse Hyperextension",
+                  "Barbell Rack Pull",
+                  "Dumbbell Shrug",
+                  "Hammer Strength Shrug",
+                  "Barbell Shrug",
+                  "Behind-The-Neck Barbell Shrug"
+            ]
+     },
+     {
+     "name" : "biceps",
+     "exercises": [
+                   "Dumbbell Curl",
+                   "Dumbbell Hammer Curl",
+                   "Alternating Curl",
+                   "Dumbbell Spider Curl",
+                   "Dumbbell Single-Arm Curl",
+                   "Barbell Curl",
+                   "Plate-Loaded Barbell Curl",
+                   "EZ-Bar Curl",
+                   "Plate-Loaded EZ-Bar Curl",
+                   "Cable Straight-Bar Curl",
+                   "Cable EZ-Bar Curl",
+                   "Cable Reverse Curl",
+                   "Cable EZ-Bar Reverse Curl",
+                   "Hammer Strength Curl",
+                   "Plate-Loaded Low Curl",
+                   "Plate-Loaded Medium Curl",
+                   "Plate-Loaded High Curl",
+                   "Incline Dumbbell Curl",
+                   "Incline Barbell Curl",
+                   "Concentration Curl"
+            ]
+     },
+     {
+     "name" : "triceps",
+     "exercises": [
+                   "Dumbbell Tricep Kickback",
+                   "Cable Straight-Bar Tricep Pushdown",
+                   "Cable V-Bar Tricep Pushdown",
+                   "Cable EZ-Bar Tricep Pushdown",
+                   "Cable Straight-Bar Overhead Tricep Extension",
+                   "Cable Rope Overhead Tricep Extension",
+                   "Cable Rope Tricep Pushdown",
+                   "Cable EZ-Bar Overhead Tricep Extension",
+                   "Machine Seated Tricep Extension",
+                   "Machine Tricep Dips",
+                   "Bodyweight Dips",
+                   "Weighted Dips",
+                   "Dumbbell Single-Arm Overhead Tricep Extension",
+                   "Dumbbell Overhead Tricep Extension",
+                   "Flat Close-Grip Barbell Bench Press",
+                   "EZ-Bar Close-Grip Bench Press",
+                   "Plate-Loaded EZ-Bar Skullcrushers",
+                   "EZ-Bar Skullcrushers",
+                   "Plate-Loaded Barbell Skullcrushers",
+                   "Barbell Skullcrushers",
+                   "Cable Single-Arm Tricep Pushdown",
+                   "French Press"
+            ]
+     },
+     {
+     "name": "quadriceps",
+     "exercises": [
+                   "Machine Leg Extension",
+                   "Plate-Loaded Leg Extension",
+                   "Barbell Sissy Squat",
+                   "Sissy Hack Squat",
+                   "Barbell Front Squat",
+                   "Barbell Back Squat",
+                   "Machine Single Leg Extension",
+                   "Plate-Loaded Single Leg Extension",
+                   "Body-Weight Pistol Squat",
+                   "Body-Weight Squat",
+                   "Dumbbell Lunges",
+                   "Dumbbell Bulgarian Split Squat",
+                   "Horizontal Leg Press",
+                   "Incline Leg Press"
+            ]
+     },
+     {
+     "name": "hamstrings",
+     "exercises": [
+                   "Machine Seated Leg Curl",
+                   "Machine Lying Leg Curl",
+                   "Plate-Loaded Seated Leg Curl",
+                   "Plate-Loaded Lying Leg Curl",
+                   "Machine Standing Leg Curl",
+                   "Plate-Loaded Standing Leg Curl",
+                   "Dumbbell Romanian Deadlift",
+                   "Barbell Romanian Deadlift",
+                   "Dumbbell Stiff-Legged Deadlift",
+                   "Barbell Stiff-Legged Deadlift",
+                   "Glute-Ham Raise"
+            ]
+     },
+     {
+     "name": "abs",
+     "exercises" : [
+                    "Straight-Bar Cable Crunch",
+                    "Rope Cable Crunch",
+                    "Machine Crunch",
+                    "Hanging Leg Raises",
+                    "Weighted Hanging Leg Raises",
+                    "Hanging Knee Raises",
+                    "Weighted Hanging Knee Raises",
+                    "Lying Bicycle Kicks",
+                    "Plank",
+                    "Weighted Plank",
+                    "Crunches",
+                    "Roman Chair Sit-ups",
+                    "Sit-ups",
+                    "Weighted Sit-ups",
+                    "Ab Roller",
+                    "Jacknives"
+            ]
+     },
+     {
+     "name": "calves",
+     "exercises": [
+                   "Seated Calf Raise",
+                   "Donkey Calf Raise",
+                   "Body-Weight Calf Raise",
+                   "Machine Seated Calf Press",
+                   "Incline Leg Press Calf Press",
+                   "Horizontal Leg Press Calf Press",
+                   "Barbell Calf Raise",
+                   "Smith Machine Calf Raise"
+            ]
+     },
+     {
+     "name": "shoulders",
+     "exercises": [
+                   "Seated Dumbbell Shoulder Press",
+                   "Seated Arnold Press",
+                   "Seated Single-Arm Dumbbell Shoulder Press",
+                   "Seated Barbell Military Press",
+                   "Standing Barbell Overhead Press",
+                   "Standing Dumbbell Shoulder Press",
+                   "Standing Single-Arm Dumbbll Shoulder Press",
+                   "Dumbbell Lateral Raise",
+                   "Dumbbell Rear Delt Fly",
+                   "Machine Reverse Pec Dec Fly",
+                   "Cable Single-Arm Lateral Raise",
+                   "Machine Lateral Raise",
+                   "Dumbbell Front Raise",
+                   "Dumbbell Alternating Front Raise",
+                   "Barbell Upright Row",
+                   "Cable Straight-Bar Upright Row",
+                   "Cable EZ-Bar Upright Row",
+                   "EZ-Bar Upright Row",
+                   "Plate-Loaded EZ-Bar Upright Row",
+                   "Smith Machine Military Press",
+                   "Behind-The-Neck Military Press",
+                   "Smith Machine Behind-The-Neck Military Press",
+                   "Plate Front Raise"
+            ]
+     },
+     {
+     "name": "glutes",
+     "exercises": [
+                   "Cable Glute Single Leg Kickbacks",
+                   "Cable Glute Single Leg Side Kicks",
+                   "Barbell Hip Thrusts",
+                   "Smith Machine Barbell Hip Thrusts",
+                   "Machine Lying Glute Kickbacks",
+                   "Cable Lying Glute Kickbacks",
+                   "Machine Adductors",
+                   "Machine Abductors",
+                   "Glute-Ham Raise"
+            ]
+     }]
+}
